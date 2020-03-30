@@ -18,7 +18,7 @@ console.log(nuova);
 nuova= nuova.reverse();
 console.log(nuova);
 // la riunisco
-nuova= nuova.join();
+nuova= nuova.join("");
 console.log(nuova);
 
 // var palindromaForse = "palindroma";
